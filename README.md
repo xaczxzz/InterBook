@@ -41,9 +41,10 @@
 ![Image](https://github.com/user-attachments/assets/ed089150-29a0-4237-9ae4-79b123e1c964) 
 
 </br>
- ## 📋 ERD Diagram   
+
+## 😊Architecture 
  
-![Image](https://github.com/user-attachments/assets/f759ec8d-a8f1-45ae-af97-af393ce3bac8)
+![Image](https://github.com/user-attachments/assets/54e59320-51db-4cae-b7ba-0d227e3b0c00)
 
 ## 🛠️ 기술 스택
 ### ⚡️Language & Framework  
